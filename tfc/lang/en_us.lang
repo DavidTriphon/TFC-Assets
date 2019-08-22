@@ -95,6 +95,7 @@ tfc.food_traits.preserved=Preserved
 ## Keybindings
 tfc.key.craft=Crafting GUI
 tfc.key.placeblock=Place Item Holder Block
+tfc.key.chiselmode=Change Chisel Mode
 
 ## Gui.World
 createWorld.customize.custom.spawnfuzz=Spawn Fuzzing Radius
