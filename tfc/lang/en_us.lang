@@ -239,6 +239,12 @@ config.tfc.general.forceNoVanillaNaturalRegeneration.tooltip=If true, this will 
 config.tfc.general.peacefulDifficultyPassiveRegeneration=Peaceful Difficulty Passive Stats Regen
 config.tfc.general.peacefulDifficultyPassiveRegeneration.tooltip=Should the player receive passive regeneration of health, food, and thirst, while in peaceful mode similar to vanilla?
 
+config.tfc.general.requireHammerInOffHand=Chisel requires hammer in offhand
+config.tfc.general.requireHammerInOffHand.tooltip=If true, hammer must be in offhand for chisel use. If false, hammer can be in offhand or toolbar.
+
+config.tfc.general.chiselDelay=Chisel has a delay
+config.tfc.general.chiselDelay.tooltip=Does the chisel have a delay on use?
+
 ## Client Config
 config.tfc.general.woodenBucketWhitelist=Wooden Bucket Fluid Whitelist
 config.tfc.general.woodenBucketWhitelist.tooltip=Allowed fluids to be picked up by the wooden bucket.
