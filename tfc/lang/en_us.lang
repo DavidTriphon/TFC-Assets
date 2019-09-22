@@ -245,6 +245,15 @@ config.tfc.general.requireHammerInOffHand.tooltip=If true, hammer must be in off
 config.tfc.general.chiselDelay=Chisel has a delay
 config.tfc.general.chiselDelay.tooltip=Does the chisel have a delay on use?
 
+config.tfc.general.regenSticksRocks=Stick And Rocks Regeneration
+config.tfc.general.regenSticksRocks.tooltip=How fast sticks and rocks regenerate, in scale of days. Use 0 to disable it entirely.
+
+config.tfc.general.regenPlants=Plants Regeneration
+config.tfc.general.regenPlants.tooltip=How fast plants regenerate, in scale of months. Use 0 to disable it entirely.
+
+config.tfc.general.regenCrops=Wild Crops and Berry Bushes Regeneration
+config.tfc.general.regenCrops.tooltip=How fast wild crops and berry bushes regenerate, in scale of months. Use 0 to disable it entirely.
+
 ## Client Config
 config.tfc.general.woodenBucketWhitelist=Wooden Bucket Fluid Whitelist
 config.tfc.general.woodenBucketWhitelist.tooltip=Allowed fluids to be picked up by the wooden bucket.
@@ -267,6 +276,9 @@ config.tfc.client.showNBTTooltip.tooltip=Show ItemStack NBT on the tooltip when 
 
 config.tfc.client.propickOutputToActionBar=Prospectors Pick Output to Actionbar
 config.tfc.client.propickOutputToActionBar.tooltip=Should the prospectors pick output to the actionbar? (the space just above the hotbar)
+
+config.tfc.client.rottenFoodOverlayColor=Rotten Food Overlay Color
+config.tfc.client.rottenFoodOverlayColor.tooltip=The color to render on top of rotten food. Express as a 265 bit color value: 0xFFFFFF = white, 0x000000 = black
 
 ## World Config
 config.tfc.world=World Gen Settings
@@ -530,6 +542,7 @@ tile.tfc.debug.name=TFC Debug Block
 tile.tfc.placed_item.name=Placed Items
 tile.tfc.placed_item_flat.name=Debris
 tile.tfc.pit_kiln.name=Pit Kiln
+tile.tfc.charcoal_forge.name=Charcoal Forge
 tile.tfc.peat.name=Peat
 tile.tfc.peat_grass.name=Peat Grass
 tile.tfc.thatch.name=Thatch
