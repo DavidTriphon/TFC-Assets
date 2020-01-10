@@ -273,9 +273,6 @@ config.tfc.general.requireHammerInOffHand.tooltip=If true, hammer must be in off
 config.tfc.general.chiselDelay=Chisel has a delay
 config.tfc.general.chiselDelay.tooltip=Does the chisel have a delay on use?
 
-config.tfc.general.regenSticksRocks=Stick And Rocks Regeneration
-config.tfc.general.regenSticksRocks.tooltip=How fast sticks and rocks regenerate, in scale of days. Use 0 to disable it entirely.
-
 config.tfc.general.worldRegenerationMinimumTime=World Regeneration Min Time
 config.tfc.general.worldRegenerationMinimumTime.tooltip=The minimum time for a chunk to be unoccupied for it's resources to begin to naturally regenerate. (In days). After this amount, regeneration will scale up based on how long since this duration, up to a maximum of 4x
 
