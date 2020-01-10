@@ -120,7 +120,7 @@ tfc.enum.skilltier.master=Master
 ## Keybindings
 tfc.key.craft=Crafting GUI
 tfc.key.placeblock=Place Item Holder Block
-tfc.key.chiselmode=Change Chisel Mode
+tfc.key.itemmode=Change Item Mode
 
 ## Gui.World
 createWorld.customize.custom.spawnfuzz=Spawn Fuzzing Radius
